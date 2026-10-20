@@ -1,0 +1,2 @@
+﻿# app-ads.txt placeholder
+# Sẽ cập nhật Publisher ID sau khi AppLovin duyệt tài khoản
